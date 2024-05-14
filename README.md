@@ -1,6 +1,6 @@
 # Circular Economy MOOC - My Learning Journey
 
-This repository documents my learning journey through a Massive Open Online Course (MOOC) on the **Circular Economy** within the European Union. Here's what I've learned:
+This repository documents my learning journey through a Massive Open Online Course (MOOC)authorized by Lund University, EIT RawMaterials, VITO, Geological Survey of Denmark and Greenland, National Technical University of Athens,Ghent University and Delft University of Technology and offered through Coursera on the **Circular Economy** within the European Union. Here's what I've learned:
 
 ## 1. Rationale for the Circular Economy
 I've gained a deep understanding of the need for raw materials in our society and the compelling reasons for transitioning towards a circular economy.
