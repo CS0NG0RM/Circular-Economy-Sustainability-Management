@@ -1,5 +1,6 @@
 # Circular Economy MOOC - My Learning Journey
-[!Lunds Universitet Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Lunds_universitet.svg/640px-Lunds_universitet.svg.png)
+![image](https://github.com/CS0NG0RM/Circular-Economy-Sustainability-Management/assets/148982660/3895d979-9f07-48c2-87d4-fdf56055c3b2)
+
 
 This repository documents my learning journey through a Massive Open Online Course (MOOC) authorized by Lund University, EIT RawMaterials, VITO, Geological Survey of Denmark and Greenland, National Technical University of Athens,Ghent University and Delft University of Technology and offered through Coursera on the **Circular Economy** within the European Union. Here's what I've learned:
 
